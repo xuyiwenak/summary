@@ -5,4 +5,5 @@ go test -v -run <function name> <go file name>
 ```
 ## lock
 主要包括锁相关的包体测试用例
-## 
+## context
+goroutine context同步的测试用例
